@@ -38,7 +38,7 @@ export default {
         </tr>
         <tr>
           <td class="title">Schedule</td>
-          <td class="content"><a href="/courses/dt4c-2020s/Schedule">Class schedule</a></td>
+          <td class="content"><a href="/dxd-web-demo/courses/dt4c-2020s/Schedule">Class schedule</a></td>
         </tr>
         <tr>
           <td class="space"></td>

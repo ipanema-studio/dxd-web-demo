@@ -9,7 +9,7 @@ export default {
     {
       title: 'Second Research Title',
       content: 'Research description and description and more and more',
-      image: 'sample2.jpg'
+      image: 'sample3.png'
     },
     {
       title: 'Third Research Title',

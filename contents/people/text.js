@@ -13,7 +13,7 @@ export default {
         'Social Computing',
         'Health Informatics'
       ],
-      image: ''
+      image: 'hong.png'
     }
   ],
   phd: [
@@ -105,7 +105,7 @@ export default {
         'Social Computing',
         'Health Informatics'
       ],
-      image: ''
+      image: 'park.jpg'
     },
     {
       name: 'Yonghoon Park',
